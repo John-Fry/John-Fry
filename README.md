@@ -11,3 +11,11 @@
     <img align="center" alt ="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
+
+<details>
+  <summary>Projects</summary>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=maroongold)](https://github.com/John-Fry/Atelie-Doce-Masara)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=maroongold)](https://github.com/John-Fry/Jogo-da-Forca-em-Java)
+
+</details>
