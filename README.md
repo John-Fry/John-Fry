@@ -15,7 +15,7 @@
 <details>
   <summary>Projects</summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Fry&repo=Atelie-Doce-Masara&theme=maroongold)](https://github.com/John-Fry/Atelie-Doce-Masara)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Fry&repo=Jogo-da-Forca-em-Java&theme=maroongold)](https://github.com/John-Fry/Jogo-da-Forca-em-Java)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Fry&repo=Atelie-Doce-Masara&theme=maroongold)](https://github.com/John-Fry/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Fry&repo=Jogo-da-Forca-em-Java&theme=maroongold)](https://github.com/John-Fry/)
 
 </details>
