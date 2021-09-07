@@ -1,6 +1,6 @@
 ### Hello Friend, my name is John 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-fry&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-fry&show_icons=true&theme=maroongold)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fry&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
