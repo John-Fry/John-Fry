@@ -16,5 +16,5 @@
   <summary>Projects</summary>
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Fry&repo=Atelie-Doce-Masara&theme=maroongold)](https://github.com/John-Fry/Atelie-Doce-Masara)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Os-Devs&repo=DogWalkers&theme=maroongold)](https://github.com/Os-Devs/DogWalkers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=John-Fry&repo=JogoDaForca-Mobile&theme=maroongold)](https://github.com/John-Fry/JogoDaForca-Mobile)
 </details>
