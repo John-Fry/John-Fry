@@ -1,9 +1,5 @@
 ### Hello Friend, my name is John 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-fry&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=maroongold)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fry&locale=en&langs_count=10&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages
 
 <div style = "display: inline_block">
